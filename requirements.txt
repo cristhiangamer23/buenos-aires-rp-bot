@@ -1,0 +1,4 @@
+txt
+discord.py
+python-dotenv
+flask
